@@ -1,0 +1,4 @@
+# Install roles from the Ansible Galaxy
+- src: gantsign.oh-my-zsh
+
+- src: dotstrap.pure 

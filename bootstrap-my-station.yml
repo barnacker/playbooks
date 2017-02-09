@@ -1,0 +1,7 @@
+- hosts: localhost
+  connection: local
+  roles:
+    - role: gantsign.oh-my-zsh
+      users:
+        - username: ubuntu
+    - role: dotstrap.pure
