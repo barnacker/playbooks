@@ -14,5 +14,5 @@ $ sudo apt install ansible
 ##Then download this repo and run:
 ```
 $ ansible-galaxy install -r requirements.yml
-$ ansible-playbook playbooks/ohmyzsh.yml
+$ ansible-playbook playbooks/bootstrap-my-station.yml
 ```
